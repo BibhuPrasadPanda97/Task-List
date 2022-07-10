@@ -1,0 +1,13 @@
+.hr{
+    border-bottom: none;
+    border-top: 1px solid black;
+}
+
+.del-icon{
+    position: absolute;
+    right: 1rem;
+}
+
+.delete-item{
+    color: red;
+}
